@@ -3,6 +3,7 @@ defmodule ElixirSup.Application do
 
   def start(_type, _args) do
     children = [
+      ElixirSup.FileServer,
       ElixirSup.Scheduler
     ]
 
