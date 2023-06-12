@@ -20,7 +20,8 @@ defmodule ElixirSup.MixProject do
 
   defp deps do
     [
-      {:quantum, "~> 3.5"}
+      {:quantum, "~> 3.5"},
+      {:mock, "~> 0.3.7"}
     ]
   end
 end
