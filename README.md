@@ -1,6 +1,6 @@
 # ElixirSup
 
-**TODO: Add description**
+A supervisor tree app.
 
 ## Installation
 

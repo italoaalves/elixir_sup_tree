@@ -3,6 +3,7 @@ defmodule ElixirSup do
   Documentation for `ElixirSup`.
   """
 
+  @spec hello :: :world
   @doc """
   Hello world.
 
